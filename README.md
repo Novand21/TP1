@@ -20,13 +20,16 @@ Saya Raditya Novandrian dengan NIM 2508283 mengerjakan TP-1 dalam mata kuliah DP
 ## Video Demo
 
 **Python:** 
-<video src="./dokumentasi/python.mp4" controls="controls" width="100%"></video>
+https://github.com/user-attachments/assets/b3c5b16c-d491-4ebd-b1d5-32e6fb6d8a8d
 
 **C++:** 
-<video src="./dokumentasi/cpp.mp4" controls="controls" width="100%"></video>
+https://github.com/user-attachments/assets/4ff50fb2-5306-4634-ae6e-fc966324e896
 
 **Java:** 
-<video src="./dokumentasi/java.mp4" controls="controls" width="100%"></video>
+https://github.com/user-attachments/assets/f6dcb3f7-7745-4f36-80c3-098d41de9ca5
 
 **PHP:** 
-<video src="./dokumentasi/php.mp4" controls="controls" width="100%"></video>
+https://github.com/user-attachments/assets/37811d1d-1d67-4bff-9718-bc1dfd178116
+
+
+
